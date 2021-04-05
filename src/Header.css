@@ -1,0 +1,26 @@
+.Header {
+    background-color: black;
+    
+    height: 25%;
+}
+.Header-name{
+    color: #47dd97;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.Header-form{
+    align-items: flex-end;
+}
+.Header-form-control{
+    float: left;
+    margin-left: 45%;
+    width:20vmin;
+}
+.Header-form-button{
+    align-items: flex-end;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    
+
+}

@@ -1,0 +1,17 @@
+.List{
+    background-color: #47dd97;
+}
+.List-box{
+    float: left;
+    margin-left: 40%;
+   
+}
+.List-text{
+    margin-left: 25%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+.List-button{
+    float: flex-end;
+    margin-left: 40%;
+}
